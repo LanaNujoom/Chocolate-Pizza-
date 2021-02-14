@@ -1,0 +1,59 @@
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.logo {
+    float: left;
+}
+
+.icon {
+    float: right;
+}
+
+.bline {
+    width: 100%;
+    height: 10px;
+    background-color: rgb(108, 110, 112);
+}
+
+.postimg {
+    padding-top: 30px;
+    margin-left: 65px;
+}
+
+.req {
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d12/main/class-10/lab-a/lab-assets/list-bg.png");
+    height: 333px;
+    width: 100%;
+    position: center;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+}
+
+.RCB {
+    /* margin-left: 40px; */
+    padding-top: 20px;
+    float: left;
+    width: 50%;
+}
+
+.LCB {
+    /* padding-right: 40px; */
+    padding-top: 20px;
+    width: 50%;
+    float: left;
+}
+
+button {
+    width: 128px;
+    height: 31px;
+    float: right;
+    background-color: #f85149;
+    color: floralwhite;
+}
+
+footer {
+    color: gray;
+    text-align: center;
+}
